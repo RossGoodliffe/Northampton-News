@@ -6,6 +6,4 @@ all the information.
 
 We were not allowed to edit the CSS or HTML of the assignment and no JavaScript could be used.
 
-To view a live version of the site [click here](http://northamptonnews.rossgoodliffe.com/index.php) to be redirected.
-
-However to view a demonstration of the working project please [click here](https://www.youtube.com/watch?v=d3bvX71D_Ic) to be redirected.
+To view a demonstration of the working project please [click here](https://www.youtube.com/watch?v=d3bvX71D_Ic) to be redirected.
